@@ -1,5 +1,5 @@
 def message():
-    msg = print("Hello World!")
+    msg = print("Git is Awesome!")
     return msg
 
 message()
